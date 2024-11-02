@@ -8,7 +8,9 @@
 /* Home */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+@import "./seguros/seguros.css";
+@import "./global/footer.css";
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
-/* Parceiros */
-@import "./home/parceiros.css";
